@@ -1,4 +1,4 @@
-# Recognition of handwritten digits using a neural network
+# Character Recognition through Neural Networks
 <div align="center">
 <i>Christopher Shaffer, Shuyang Jiang, and Zehui Chen</i>
 </div>
