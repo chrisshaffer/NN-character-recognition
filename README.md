@@ -1,8 +1,6 @@
 # Character Recognition through Neural Networks
-<div align="center">
+
 <i>Christopher Shaffer, Shuyang Jiang, and Zehui Chen</i>
-</div>
-<br/>
  
 ## Summary
 In this project, we focused on the application of feedforward neural networks with backpropagation
